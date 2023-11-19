@@ -1,0 +1,97 @@
+*{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+  background:linear-gradient(rgb(136, 136, 247), rgb(136, 136, 247));
+border: none;
+}
+.unbrew{
+  font-weight: bolder;
+}
+
+.row img{
+width: 510px;
+height: 500px;
+background: transparent;
+border: none;
+/* border-color: #ac50ee;
+border-bottom: #ac50ee;
+border-left: #ac50ee;
+border-right: #5c1f87; */
+}
+.containar{
+  background:linear-gradient(rgb(136, 136, 247), rgb(68, 40, 68));
+}
+.row h1{
+font-size: 5.333333vw;
+}
+.containar button{
+  width: 210px;
+  font-weight: bolder;
+  height: 80px;
+  border-radius: 153px 132px 123px 0px;
+-webkit-border-radius: 153px 132px 123px 0px;
+-moz-border-radius: 153px 132px 123px 0px;
+
+}
+.container-sec button{
+  width: 210px;
+  font-weight: bold;
+  height: 50px;
+  background-color:rgb(205, 116, 240);
+  border-radius: 153px 132px 123px 0px;
+-webkit-border-radius: 153px 132px 123px 0px;
+-moz-border-radius: 153px 132px 123px 0px;
+}
+.num img{
+  width: 130x;
+  height: 180px;
+}
+.cards :hover{
+background-color: blue;
+color: aliceblue;
+}
+.cards .icon :hover{
+color: rgb(31, 29, 29);
+background-color: black;
+}
+.container-for img{
+width: 300px;
+height: 200px;
+}
+.container-fif button{
+
+  border-radius: 153px 132px 123px 0px;
+-webkit-border-radius: 153px 132px 123px 0px;
+-moz-border-radius: 153px 132px 123px 0px;
+}
+.cardss img{
+width: 300px;
+}
+.containar-eight img{
+width: 50px;
+height: 50px;
+}
+.containar-eight .card{
+width: 100px;
+}
+.containar-nine{
+  background-color: #982fc3;
+  background-image: linear-gradient(180deg, #c043f1 0%, #7516b1 47%, #fbf5f5 53%);
+  
+}
+.number{  
+  font-size: 3.22222vw;
+}
+.price{
+  font-size: 2.3333vw;
+  
+}
+.link{
+  font-size: large;
+  text-decoration: none;
+}
+.footer a{
+text-decoration: none;
+color: black;
+}
